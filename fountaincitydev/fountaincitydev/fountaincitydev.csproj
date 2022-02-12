@@ -68,6 +68,10 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="CSS\index_styling.css" />
+    <Content Include="Contact.html" />
+    <Content Include="Portfolio.html" />
+    <Content Include="Resume.html" />
+    <Content Include="Links.html" />
     <Content Include="index.html" />
     <Content Include="JavaScript\JavaScript.js" />
     <Content Include="Web.config" />
@@ -83,6 +87,9 @@
     <None Include="Web.Release.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Images\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
