@@ -4,9 +4,9 @@
 jQuery(document).ready(function($){
 'use strict';
   jQuery('body').backstretch([
-      "assets/img/bg/bg1.jpg"
-    , "assets/img/bg/bg2.jpg"
-    , "assets/img/bg/bg3.jpg"
+      "assets/img/benjamin-white-dl8REOo_BXU-unsplash.jpg"
+      , "assets/img/colton-sturgeon-FiCPutl_aog-unsplash (1).jpg"
+      , "assets/img/matthew-deltoro-LdFvvpjnB2A-unsplash.jpg"
   ], {duration: 5000, fade: 500});
 });
 

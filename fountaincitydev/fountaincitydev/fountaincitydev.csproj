@@ -67,9 +67,12 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="assets\img\benjamin-white-dl8REOo_BXU-unsplash.jpg" />
+    <Content Include="assets\img\colton-sturgeon-FiCPutl_aog-unsplash %281%29.jpg" />
+    <Content Include="assets\img\matthew-deltoro-LdFvvpjnB2A-unsplash.jpg" />
     <Content Include="index.html" />
     <Content Include="Web.config" />
-    <Content Include="about.html" />
+    <Content Include="links.html" />
     <Content Include="assets\css\animate.css" />
     <Content Include="assets\css\bootstrap.css" />
     <Content Include="assets\css\elusive-webfont.css" />
@@ -145,10 +148,9 @@
     <Content Include="assets\js\plugins.js" />
     <Content Include="assets\js\retina.js" />
     <Content Include="assets\js\video.js" />
-    <Content Include="category-alt.html" />
-    <Content Include="category.html" />
+    <Content Include="portfolio.html" />
+    <Content Include="resume.html" />
     <Content Include="contact.html" />
-    <Content Include="index-single-page.html" />
     <Content Include="single-post-sidebar.html" />
     <Content Include="single-post.html" />
     <Content Include="single-project-video-self-hosted.html" />
