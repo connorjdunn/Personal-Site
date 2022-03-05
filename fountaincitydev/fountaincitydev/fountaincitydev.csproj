@@ -70,6 +70,8 @@
     <Content Include="assets\img\benjamin-white-dl8REOo_BXU-unsplash.jpg" />
     <Content Include="assets\img\colton-sturgeon-FiCPutl_aog-unsplash %281%29.jpg" />
     <Content Include="assets\img\matthew-deltoro-LdFvvpjnB2A-unsplash.jpg" />
+    <Content Include="assets\img\MattLinksPage.jpg" />
+    <Content Include="assets\img\ZakPFP.jpeg" />
     <Content Include="index.html" />
     <Content Include="Web.config" />
     <Content Include="links.html" />
